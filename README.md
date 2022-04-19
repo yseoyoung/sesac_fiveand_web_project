@@ -1,4 +1,5 @@
 # 🗳 fiveand 중고 경매 웹사이트
+![메인화면(1)](https://user-images.githubusercontent.com/65703902/163985015-3747e460-1738-4c60-af89-fa2a3a0f76a9.png)
 <br>
 
 ## 👨 👨 👧 팀원
